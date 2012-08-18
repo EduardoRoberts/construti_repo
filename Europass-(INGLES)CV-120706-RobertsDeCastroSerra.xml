@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="http://europass.cedefop.europa.eu/xml/cv_en_GB.xsl" type="text/xsl"?>
+<europass:learnerinfo xsi:schemaLocation="http://europass.cedefop.europa.eu/Europass/V2.0 http://europass.cedefop.europa.eu/xml/EuropassSchema_V2.0.xsd" xmlns:europass="http://europass.cedefop.europa.eu/Europass/V2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="en_GB">
+	<docinfo>
+		<issuedate>2012-01-05T14:17:45-03:00</issuedate>
+		<xsdversion>V2.0</xsdversion>
+		<comment>Automatically generated Europass CV</comment></docinfo>
+	<prefs>
+		<field name="step1.firstName" before="step1.lastName"></field>
+		<field name="step1.addressInfo" keep="true"></field>
+		<field name="step1.telephone" keep="true"></field>
+		<field name="step1.mobile" keep="true"></field>
+		<field name="step1.fax" keep="false"></field>
+		<field name="step1.email" keep="true"></field>
+		<field name="step1.nationality" keep="true"></field>
+		<field name="step1.birthDate" keep="true" format="/numeric/long"></field>
+		<field name="step1.gender" keep="true"></field>
+		<field name="step1.photo" keep="false"></field>
+		<field name="step1.application.label" keep="true"></field>
+		<field format="/numeric/long" name="step3List[1].period"></field>
+		<field format="/numeric/long" name="step3List[0].period"></field>
+		<field name="step3List" keep="true" before="step4List"></field>
+		<field keep="true" name="step3List[1].company.sector.label"></field>
+		<field keep="true" name="step3List[1].company.addressInfo"></field>
+		<field keep="true" name="step3List[1].company.name"></field>
+		<field keep="true" name="step3List[1].activities"></field>
+		<field keep="true" name="step3List[1].position.label"></field>
+		<field keep="true" name="step3List[0].company.sector.label"></field>
+		<field keep="true" name="step3List[0].company.addressInfo"></field>
+		<field keep="true" name="step3List[0].company.name"></field>
+		<field keep="true" name="step3List[0].activities"></field>
+		<field keep="true" name="step3List[0].position.label"></field>
+		<field format="/numeric/long" name="step4List[0].period"></field>
+		<field name="step4List" keep="true"></field>
+		<field keep="true" name="step4List[0].level.label"></field>
+		<field keep="true" name="step4List[0].educationalOrg.addressInfo"></field>
+		<field keep="true" name="step4List[0].educationalOrg.name"></field>
+		<field keep="true" name="step4List[0].skills"></field>
+		<field keep="true" name="step4List[0].title"></field>
+		<field name="step5.motherLanguages" keep="false"></field>
+		<field name="step5.foreignLanguageList" keep="true"></field>
+		<field keep="true" name="step5.foreignLanguageList[0]"></field>
+		<field name="step6.socialSkills" keep="true"></field>
+		<field name="step6.organisationalSkills" keep="true"></field>
+		<field name="step6.technicalSkills" keep="true"></field>
+		<field name="step6.computerSkills" keep="true"></field>
+		<field name="step6.artisticSkills" keep="true"></field>
+		<field name="step6.otherSkills" keep="false"></field>
+		<field name="step6.drivingLicences" keep="true"></field>
+		<field name="step7.additionalInfo" keep="true"></field>
+		<field name="step7.annexes" keep="false"></field>
+		<field name="grid" keep="false"></field></prefs>
+	<identification>
+		<firstname>Eduardo</firstname>
+		<lastname>Roberts de Castro Serra/</lastname>
+		<contactinfo>
+			<address>
+				<addressLine>Rua Cônego José Félix de Oliveira, nº 600</addressLine>
+				<municipality>Aracaju</municipality>
+				<postalCode>49035-170</postalCode>
+				<country>
+					<code>BR</code>
+					<label>Brazil</label></country></address>
+			<telephone>+55 7932432499</telephone>
+			<fax></fax>
+			<mobile>+55 7988261251</mobile>
+			<email>edu.roberts@gmail.com</email></contactinfo>
+		<demographics>
+			<birthdate>1987-08-24</birthdate>
+			<gender>M</gender>
+			<nationality>
+				<label>Brazilian</label></nationality></demographics></identification>
+	<application>
+		<label>Software engineer</label></application>
+	<workexperiencelist>
+		<workexperience>
+			<period>
+				<from>
+					<year>2011</year>
+					<month>--01</month>
+					<day>---10</day>
+				</from>
+				<to>
+					<year>2012</year>
+					<month>--03</month>
+					<day>---01</day>
+				</to>
+			</period>
+			<position>
+				<label>Computer programmer/Analist</label>
+			</position>
+			<activities>- Engineer and Develop new softwares for the Organization
+
+- Technology used: PHP, ASP, JQuery, Javascript, CSS, HTML, XML, MySQL, CakePHP, CodeIgniter 
+
+- Leading programmer of a 3 person team</activities>
+			<employer>
+				<name>Rádio Televisão de Sergipe S/A</name>
+				<address>
+					<addressLine>Rua Alto do Morro da TV, S/N</addressLine>
+					<municipality>Aracaju</municipality>
+					<postalCode>49070-260</postalCode>
+					<country>
+						<code>BR</code>
+						<label>Brazil</label>
+					</country>
+				</address>
+				<sector>
+					<code>J</code>
+					<label>Information and communication</label>
+				</sector>
+			</employer>
+		</workexperience>
+		<workexperience>
+			<period>
+				<from>
+					<year>2009</year>
+					<month>--09</month>
+					<day>---14</day>
+				</from>
+				<to>
+					<year>2011</year>
+					<month>--01</month>
+					<day>---03</day>
+				</to>
+			</period>
+			<position>
+				<code>21320</code>
+				<label>Computer programmer</label>
+			</position>
+			<activities>- Develop and maintain softwares in the medical area
+
+- Technology used: PHP, XML, Javascript, CSS, HTML</activities>
+			<employer>
+				<name>Medsaude Serviços em Informática LTDA</name>
+				<address>
+					<addressLine>RUA Dom José Thomaz 694, Bairro São José</addressLine>
+					<municipality>Aracaju</municipality>
+					<postalCode>49015-090</postalCode>
+					<country>
+						<label>Brazil</label>
+					</country>
+				</address>
+				<sector>
+					<label>Information and Technology</label>
+				</sector>
+			</employer>
+		</workexperience>
+	</workexperiencelist>
+	<educationlist>
+		<education>
+			<period>
+				<from>
+					<year>2009</year>
+					<month>--02</month>
+					<day>---10</day>
+				</from>
+				<to>
+					<year>2012</year>
+					<month>--08</month>
+					<day>---26</day>
+				</to>
+			</period>
+			<title>Graduate in Information Systems</title>
+			<skills>The aim of the course Information Systems is to provide the society of professionals able to conceive,
+create and implement projects from the processing of information in constructing models of corporate
+automation, using concepts and techniques of computer science and systems theory.
+The graduate student will serve as a consultant and marketing manager of information technology by
+providing a proactive vision and entrepreneurial organization, generating improvements in processes and, consequently, in their business.</skills>
+			<organisation>
+				<name>Universidade Federal de Sergipe</name>
+				<address>
+					<addressLine>Avenida Marechal Rondon, sem número, Jardim Rosa Elze, Cidade Universitária Professor José Aloísio de Campos</addressLine>
+					<municipality>São Cristovão</municipality>
+					<postalCode>49100-000</postalCode>
+					<country>
+						<code>BR</code>
+						<label>Brazil</label>
+					</country>
+				</address>
+				<type>Department of Computing</type>
+			</organisation>
+			<level>
+				<code>5</code>
+				<label>ISCED 5</label>
+			</level>
+			<educationalfield>
+				<code>48</code>
+				<label>Computing</label>
+			</educationalfield>
+		</education>
+	</educationlist>
+	<languagelist>
+		<language xsi:type="europass:mother">
+			<code>pt</code>
+			<label>Portuguese</label></language>
+		<language xsi:type="europass:foreign">
+			<code>en</code>
+			<label>English</label>
+			<level>
+				<listening>c1</listening>
+				<reading>c2</reading>
+				<spokeninteraction>b2</spokeninteraction>
+				<spokenproduction>b2</spokenproduction>
+				<writing>c1</writing>
+			</level>
+		</language>
+	</languagelist>
+	<skilllist>
+		<skill type="social">- Team work: I have worked with many people in diferent areas of knowledge, from research teams to martial arts team. for 2 years I was the 'older brother' in my kung fu team
+
+- Mediating skills: As a programmer and analyst, I have to deal with a great deal of people, and we had to negotiate all about the software requisites</skill>
+		<skill type="organisational">- Organization of work: Whilst working for a Local Tv Station, my team had to develop systems in little time, I have made a standard software development process so we could maintain the deadline</skill>
+		<skill type="technical">- Team Manager: I managed a team of 20 people in 2 editions of an enternainment event called Game Anime expo SE</skill>
+		<skill type="computer">- Competent with Microsoft Office
+
+- Intermediate knowledge in GIMP
+
+- Programing/Script languages: PHP, Javascript, Java, Pascal, ASP
+
+- Database: MySQL, Postgres, SQLServer2008
+
+- Frameworks: Jquery, CodeIgniter, CakePHP</skill>
+		<skill type="artistic">- Drums, when I was 12
+- Vocalist, for singing in a hobbie band named Tundra
+
+- Sports lover</skill>
+		<skill type="other"></skill>
+		<structured-skill xsi:type="europass:driving">
+			<drivinglicence>B</drivinglicence></structured-skill></skilllist>
+	<misclist>
+		<misc type="additional">Personal Interests
+Enjoy all sports particularly martial arts, running and trails. Love nature, music and cooking.</misc>
+		<misc type="annexes"></misc></misclist>
+</europass:learnerinfo>
